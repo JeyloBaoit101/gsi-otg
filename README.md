@@ -1,10 +1,10 @@
-## UNIVERSAL GSI OTG ENABLER
+## UNIVERSAL GSI CUSTOM ROM OTG ENABLER
 
-Enable OTG Functionality on GSI Devices 
+**Enable OTG Functionality on GSI Devices**
 
-How to use?
+**How to use**
 
-Flash in Magisk and Reboot
+**• Flash in Magisk and Reboot**
 
-Note:
-You must eject your usb drive before unplugging it.
+⚠️
+**Before removing your usb you must eject it first**
